@@ -1,5 +1,5 @@
-# Create-database
-Using python and Berkeley DB to extract data from XML, in order to create data base
+# Create an information retrieval system
+A data querying program for 10 to 100,000 email data in XML format, converted to txt and index files for the users to easily search through all items.
 
 # How to use (overview)
 a. Phase 1 first: ~> python3 phase1.py
